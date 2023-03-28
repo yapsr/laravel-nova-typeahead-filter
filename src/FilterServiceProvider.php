@@ -1,6 +1,6 @@
 <?php
 
-namespace Devpartners\TypeaheadFilter;
+namespace Yapsr\TypeaheadFilter;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

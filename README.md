@@ -7,7 +7,7 @@ This package provides an easy-to-setup searchable select filter for Laravel Nova
 Install via composer:
 
 ```shell
-$ composer require devpartners/typeahead-filter
+$ composer require yapsr/typeahead-filter
 ```
 
 ## Using in Laravel Nova

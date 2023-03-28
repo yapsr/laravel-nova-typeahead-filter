@@ -1,6 +1,6 @@
 <?php
 
-namespace Devpartners\TypeaheadFilter;
+namespace Yapsr\TypeaheadFilter;
 
 use Illuminate\Http\Request;
 use Laravel\Nova\Filters\Filter;
